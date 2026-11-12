@@ -1,0 +1,11 @@
+# https://dart.dev/tools/private-files
+# Created by `dart pub`
+.dart_tool/
+
+# Fichiers générés par la compilation / les tests
+build/
+coverage/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
